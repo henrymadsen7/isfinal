@@ -1,0 +1,53 @@
+h2{
+    font-family: 'Courier New', Courier, monospace;
+}
+.darkcolor{
+    background-color: navy !important;
+}
+.name{
+    color: black !important;
+}
+.page{
+    background-color: antiquewhite;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: right;
+    border: burlywood
+    };
+.page2{
+        text-align: center;
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        color: black;
+    }
+    
+        
+.header{
+    
+        text-align: center;
+        background-color: #f0f0f0;
+        padding: 10px;
+    }
+
+    h1 {
+        color: #333;
+        margin: 0; 
+    }
+.tab{
+    body {
+        margin: 0;
+        padding: 0;
+        font-family: Arial, sans-serif;
+    }
+
+    .title-container {
+        position: absolute;
+        top: 0;
+        right: 0;
+        padding: 10px;
+        background-color: #333;
+        color: #fff;
+    }
+
+}
+
